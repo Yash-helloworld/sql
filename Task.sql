@@ -1,4 +1,4 @@
--- task  
+-- Task  
 create database shopdb;
 use shopdb;
 create table customers
