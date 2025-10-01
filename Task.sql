@@ -205,7 +205,7 @@ alter table orders
 modify order_date varchar(100) not null;
 select * from orders;
 
-
+// add addition column though GPT
 select * from orders;
 select * from employees;
 select * from products;
